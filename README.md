@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+# Launch the app
 
-This project is a starting point for a Flutter application.
+to lauch the app you have to install Flutter sdks
+then clone the repo and run
+## flutter pub get
+--  to get all dependencies
+after this just run 
+## flutter run and choose the emulator
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is recommanded to use a Samsung Galaxy S8+ to run it
